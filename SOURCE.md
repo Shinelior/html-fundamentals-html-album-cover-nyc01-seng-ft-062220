@@ -1,3 +1,8 @@
+<!DOCTYPE html><html lang=en><head>
+<meta charset="UTF-8">
+    <title>HTML Album Cover</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
 <!-- FRONT -->
 
 PHARRELL WILLIAMS
@@ -5,7 +10,7 @@ PHARRELL WILLIAMS
 HAPPY
 
 | FROM DESPICABLE ME 2 |
-
+</head>
 <!-- BACK -->
 
 | &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
@@ -23,3 +28,9 @@ PHARRELLWILLIAMS.COM
 COLUMBIARECORDS.COM
 
 [sony-logo.png]
+
+
+
+
+
+</html>
